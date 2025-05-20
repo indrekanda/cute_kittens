@@ -16,7 +16,7 @@ pip install -e .
 ```bash
 pip install -e C:\path\to\your\cute_kittens
 ```
-https://github.com/indrekanda/cute_kittens
+
 3. Directly from GitHub:
 ```bash
 pip install git+https://github.com/indrekanda/cute_kittens.git
