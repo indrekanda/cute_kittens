@@ -1,6 +1,6 @@
 def print_kitten():
     kitten = """\
-  /\\_/\\    /\\_/\\
+   /\\_/\\    /\\_/\\
   ( o.o )  ( o.o )
    > ^ <    > ^ <"""
     print(kitten) 
